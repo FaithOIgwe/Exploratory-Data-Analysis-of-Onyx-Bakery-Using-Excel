@@ -6,5 +6,5 @@ This analysis was done to help a startup understand their data and make data dri
 ## Findings and Insights
 1. Onyx bakery sells over 7 different flavours of pie, according to the dataset, onyx made a total of 353.45k as total revenue for the year for all flavours of pie.
 2. Total cost on the pies summed to 96.92k
-3.The total quantity sold in the bakery totalled 8333
-4. They sold the least on Sundays and sold the most on Mondays, quite an irony cos I didn't think people rather go the bakery on Mondays instead of Sunday being a weekend.
+4.The total quantity sold in the bakery totalled 8333
+5. They sold the least on Sundays and sold the most on Mondays, quite an irony cos I didn't think people rather go the bakery on Mondays instead of Sunday being a weekend.
